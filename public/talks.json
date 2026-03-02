@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of JavaScript Frameworks",
+    "speakers": ["Jane Doe"],
+    "categories": ["JavaScript", "Web Development", "Frontend"],
+    "duration": 60,
+    "description": "A deep dive into the latest trends and future directions of popular JavaScript frameworks."
+  },
+  {
+    "title": "Building Scalable APIs with Node.js",
+    "speakers": ["John Smith"],
+    "categories": ["Node.js", "API", "Backend"],
+    "duration": 60,
+    "description": "Learn how to design and build RESTful APIs that can handle high traffic and scale effectively."
+  },
+  {
+    "title": "Mastering CSS Grid and Flexbox",
+    "speakers": ["Emily White", "David Green"],
+    "categories": ["CSS", "Web Design", "Frontend"],
+    "duration": 60,
+    "description": "A comprehensive guide to creating complex and responsive layouts with modern CSS."
+  },
+  {
+    "title": "Introduction to Machine Learning with Python",
+    "speakers": ["Michael Black"],
+    "categories": ["Machine Learning", "Python", "AI"],
+    "duration": 60,
+    "description": "An introductory session on the fundamentals of machine learning using Python and popular libraries."
+  },
+  {
+    "title": "Securing Your Web Applications",
+    "speakers": ["Sarah Blue"],
+    "categories": ["Security", "Web Development", "Cybersecurity"],
+    "duration": 60,
+    "description": "Best practices for identifying and mitigating common security vulnerabilities in web applications."
+  },
+  {
+    "title": "The Rise of Serverless Computing",
+    "speakers": ["Chris Yellow"],
+    "categories": ["Serverless", "Cloud", "Architecture"],
+    "duration": 60,
+    "description": "An overview of serverless architecture, its benefits, and how to get started with serverless functions."
+  }
+]

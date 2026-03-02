@@ -1,0 +1,6 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Compiled output
+index_serverless.html
